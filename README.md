@@ -1,6 +1,6 @@
 This project analyzes how the February 2021 Arctic cold outbreak impacted energy grid operations in Denver, Colorado.
 
-A Fortran 90 program was developed to read upper-air sounding data and evaluate weather conditions that could increase energy demand and create operational risks for the power grid.
+This fortran 90 program was developed to read upper air sounding data and evaluate weather conditions that could increase energy demand and create operational risks for the power grid.
 
 ## Case Study
 
